@@ -1,50 +1,55 @@
-# Hi, I'm Leonardo Solé Rodrigues
+# Leonardo Solé Rodrigues | Frontend focused Full Stack Engineer
 
-### Full Stack Engineer | Frontend Specialist | Former Art Director
-**Based in Rio de Janeiro, Brazil 🇧🇷**
+## Engineering with a Designer's Eye
 
-I am a Full Stack Engineer with 5 years of experience building scalable web and mobile applications. My background blends deep technical expertise in **Electronic and Computer Engineering** with a creative foundation in **Social Communication**, allowing me to build solutions that are as functional as they are user-centric.
+I am a Full Stack Engineer based in **Rio de Janeiro** with over 4 years of experience building production-grade web and mobile applications. My unique background — including 5 years as an **Art Director** — allows me to bridge the gap between complex engineering and high-fidelity design, ensuring accessibility, performance, and "pixel-perfect" execution.
 
----
+-----
 
-### 🚀 Summary
-* **Expertise:** Designing, developing, and maintaining scalable web and mobile applications.
-* **Current Focus:** Frontend Engineering at **Tribunal de Contas da União (TCU)**.
-* **Core Stack:** TypeScript, React, Python, Kotlin, and Microfrontend architecture.
-* **Approach:** Delivering high-quality solutions through Agile collaboration, automated testing, and cloud optimization.
+### 🚀 Quick Highlights
 
----
+  * **Current Focus:** Building the **Unio Design System** at [TCU](https://portal.tcu.gov.br) using React and TypeScript.
+  * **Architecture:** Experienced in Microfrontends, Headless CMS (Strapi), and Cloud Infrastructure (GCP).
+  * **Mobile:** Skilled in native Android development with **Kotlin** and **Jetpack Compose**.
 
-### 🛠️ Technical Toolbox
+-----
 
-| Category | Skills |
+### 🛠️ Technical Toolkit
+
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, Kotlin, C# |
-| **Frontend** | React, Next.js, Stencil, Tailwind CSS, Jetpack Compose |
-| **Backend/Cloud** | Node.js, RESTful APIs, Cloud Functions |
-| **DevOps/Tools** | GitHub Actions, CI/CD, Microfrontends |
-| **Languages** | Portuguese (Native), English (Fluent), Spanish & German (Beginner) |
+| **Frontend** | `React`, `Next.js`, `TypeScript`, `Stencil`, `Tailwind CSS`, `Storybook` |
+| **Backend** | `Node.js`, `Kotlin`, `Python`, `C#`, `MySQL`, `Firebase` |
+| **Mobile** | `Kotlin`, `Jetpack Compose` |
+| **Testing** | `Playwright`, `Vitest`, `Jest`, `React Testing Library` |
+| **DevOps** | `GitHub Actions`, `Docker`, `Jenkins`, `Rancher`, `Datadog` |
 
----
+-----
 
-### 💼 Professional Journey
+### 📈 Featured Professional Impact
 
-#### **Software Engineering**
-* **Frontend Engineer @ TCU** (2024 – Present): Developing modern interfaces with Next.js and Tailwind, creating design systems with React, automating CI/CD pipelines and implementing headless CMS solutions.
-* **Full Stack Engineer @ Trimble** (2021 – 2024): Progressed from Intern to Mid-level. Focused on React microfrontends and Kotlin/Jetpack Compose mobile apps.
-* **Academic Researcher @ GTA (UFRJ)** (2020 – 2022): Published research on federated learning, data privacy, and multi-criteria car navigation systems.
+#### **[Tribunal de Contas da União (TCU)](https://portal.tcu.gov.br)**
 
-#### **Creative Roots**
-* **Art Director @ Various Agencies** (2010 – 2015): Led online/offline campaigns at agencies like Giovanni+Draftfcb and FLAGCX.
+  * **Design System Architect**: Engineered a polymorphic component library that serves as the foundation for internal UI.
+  * **Performance Optimization**: Migrated legacy portal to Next.js.
 
----
+#### **[Trimble Inc.](https://www.trimble.com)**
 
-### 🎓 Education
-* **B.S. Electronic and Computer Engineering** | UFRJ (2017 – 2022)
-* **B.S. Social Communication** | ESPM (2008 – 2011)
+  * **Microfrontend Pioneer**: Designed and implemented the MFE architecture for the Trimble Fleet Manager platform.
+  * **Mobile Launch**: Developed and launched the Trimble Inspections app for North American commercial fleets using Kotlin.
 
----
+-----
 
-### 📬 Connect with Me
-* **LinkedIn:** [linkedin.com/in/leosole](https://linkedin.com/in/leosole)
-* **Email:** [leosole@gmail.com](mailto:leosole@gmail.com)
+### 🎓 Academic & Research
+
+  * **B.S. Electronic and Computer Engineering** | [UFRJ](https://ufrj.br)
+  * **Publication**: [*"Towards drivers' safety with multi-criteria car navigation systems"*](https://www.sciencedirect.com/science/article/abs/pii/S0167739X22001480) — *Future Generation Computer Systems* (2022).
+  * **Federated Learning**: [Developed cross-silo training methods using Python, TensorFlow, and Flower](https://www.gta.ufrj.br/ftp/gta/TechReports/Sole22/Sole22.pdf)
+
+-----
+
+### 📫 Connect with Me
+
+  * **LinkedIn**: [linkedin.com/in/leosole](https://www.google.com/search?q=https://linkedin.com/in/leosole)
+  * **Email**: [leosole@gmail.com](mailto:leosole@gmail.com)
+  * **Location**: Rio de Janeiro, Brazil 🇧🇷
