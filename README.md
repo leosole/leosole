@@ -1,4 +1,4 @@
-# Hi, I'm Leonardo Solé Rodrigues 👋
+# Hi, I'm Leonardo Solé Rodrigues
 
 ### Full Stack Engineer | Frontend Specialist | Former Art Director
 **Based in Rio de Janeiro, Brazil 🇧🇷**
