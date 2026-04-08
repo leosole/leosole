@@ -52,4 +52,5 @@ I am a Full Stack Engineer based in **Rio de Janeiro** with over 4 years of expe
 
   * **LinkedIn**: [linkedin.com/in/leosole](https://www.google.com/search?q=https://linkedin.com/in/leosole)
   * **Email**: [leosole@gmail.com](mailto:leosole@gmail.com)
+  * **CV**: [leosole-cv.netlify.app/](https://leosole-cv.netlify.app/)
   * **Location**: Rio de Janeiro, Brazil 🇧🇷
